@@ -7,7 +7,7 @@
 ## Installation
 
 ```bash
-npm install declare-any
+npm install github:XcrDevv/declare-any
 ```
 
 ## Usage
