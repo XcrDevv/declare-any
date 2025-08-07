@@ -1,0 +1,16 @@
+{
+  "name": "declare-any",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet, it just works™\" && exit 0"
+  },
+  "keywords": ["utility", "declare", "typescript", "template", "generic", "npm"],
+  "author": "Unknown Visionary",
+  "license": "MIT",
+  "description": "A utility function to declare a variable and return it.",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "eslint": "^9.32.0"
+  }
+}

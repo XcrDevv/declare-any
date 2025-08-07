@@ -1,0 +1,1 @@
+export function declare<T>(variable: T): T;
